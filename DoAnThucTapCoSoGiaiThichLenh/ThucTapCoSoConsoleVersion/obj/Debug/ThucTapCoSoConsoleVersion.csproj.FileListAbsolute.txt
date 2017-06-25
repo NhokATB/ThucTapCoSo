@@ -1,0 +1,8 @@
+C:\Users\Ngoc Vy\Desktop\ThucTapCoSo\DoAnThucTapCoSo\ThucTapCoSoConsoleVersion\bin\Debug\ThucTapCoSoConsoleVersion.exe.config
+C:\Users\Ngoc Vy\Desktop\ThucTapCoSo\DoAnThucTapCoSo\ThucTapCoSoConsoleVersion\bin\Debug\ThucTapCoSoConsoleVersion.exe
+C:\Users\Ngoc Vy\Desktop\ThucTapCoSo\DoAnThucTapCoSo\ThucTapCoSoConsoleVersion\bin\Debug\ThucTapCoSoConsoleVersion.pdb
+C:\Users\Ngoc Vy\Desktop\ThucTapCoSo\DoAnThucTapCoSo\ThucTapCoSoConsoleVersion\bin\Debug\DoAnThucTapCoSo.exe
+C:\Users\Ngoc Vy\Desktop\ThucTapCoSo\DoAnThucTapCoSo\ThucTapCoSoConsoleVersion\bin\Debug\DoAnThucTapCoSo.pdb
+C:\Users\Ngoc Vy\Desktop\ThucTapCoSo\DoAnThucTapCoSo\ThucTapCoSoConsoleVersion\obj\Debug\ThucTapCoSoConsoleVersion.csprojResolveAssemblyReference.cache
+C:\Users\Ngoc Vy\Desktop\ThucTapCoSo\DoAnThucTapCoSo\ThucTapCoSoConsoleVersion\obj\Debug\ThucTapCoSoConsoleVersion.exe
+C:\Users\Ngoc Vy\Desktop\ThucTapCoSo\DoAnThucTapCoSo\ThucTapCoSoConsoleVersion\obj\Debug\ThucTapCoSoConsoleVersion.pdb

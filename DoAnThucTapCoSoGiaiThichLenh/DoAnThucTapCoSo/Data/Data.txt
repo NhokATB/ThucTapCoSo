@@ -1,0 +1,13 @@
+Họ và tên		Chức vụ			Ngày sinh		Hệ số lương
+nhok kon nguyen		Tổng giám đốc		19/06/2017		12
+
+Nhok Vương		Trưởng phòng		02/04/2017		4.5
+
+Nhok ATB		Tổng giám đốc		01/04/2017		10
+
+Nhok guitar nguyen	Thư kí			01/04/2017		4
+
+Vuong nhok nguyen	Phó giám đốc		17/03/1996		8
+
+Nguyễn Ngọc Vương	Nhân viên		14/12/1980		2.5
+
